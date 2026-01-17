@@ -1,0 +1,15 @@
+env/
+node_modules/
+sites/*/private/
+sites/*/public/files/
+sites/*/backup/
+sites/*/private/files/
+*.pyc
+*.swp
+*.sqlite
+logs/
+*.log
+*.pid
+redis_cache/
+redis_socketio/
+redis_queue/
