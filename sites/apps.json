@@ -17,5 +17,25 @@
         "required": [],
         "idx": 2,
         "version": "15.94.3"
+    },
+    "hrms": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "fe1f76c227db4ce4ba3e6f480e4d787890fcc0c0",
+            "branch": "version-15"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "15.55.0"
+    },
+    "india_compliance": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "2d0765aed5c8d83cbe782ede9e05a020db4e0d4f",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 4,
+        "version": "17.0.0-dev"
     }
 }

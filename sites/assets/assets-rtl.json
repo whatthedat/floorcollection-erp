@@ -1,13 +1,15 @@
 {
-    "rtl_desk.bundle.css": "/assets/frappe/dist/css-rtl/desk.bundle.YCMN77QN.css",
-    "rtl_email.bundle.css": "/assets/frappe/dist/css-rtl/email.bundle.DVW3CKRY.css",
-    "rtl_login.bundle.css": "/assets/frappe/dist/css-rtl/login.bundle.QSVYSUM3.css",
-    "rtl_print.bundle.css": "/assets/frappe/dist/css-rtl/print.bundle.TOLPY6H5.css",
-    "rtl_print_format.bundle.css": "/assets/frappe/dist/css-rtl/print_format.bundle.EZWPPGVE.css",
-    "rtl_report.bundle.css": "/assets/frappe/dist/css-rtl/report.bundle.62TNQ7AR.css",
-    "rtl_web_form.bundle.css": "/assets/frappe/dist/css-rtl/web_form.bundle.L5SRZ3U4.css",
-    "rtl_website.bundle.css": "/assets/frappe/dist/css-rtl/website.bundle.6ILW7AFC.css",
-    "rtl_erpnext-web.bundle.css": "/assets/erpnext/dist/css-rtl/erpnext-web.bundle.ARQVS6EI.css",
-    "rtl_erpnext.bundle.css": "/assets/erpnext/dist/css-rtl/erpnext.bundle.TMBT2TU5.css",
-    "rtl_erpnext_email.bundle.css": "/assets/erpnext/dist/css-rtl/erpnext_email.bundle.QXYTBFFO.css"
+    "rtl_desk.bundle.css": "/assets/frappe/dist/css-rtl/desk.bundle.6VYLPBUB.css",
+    "rtl_email.bundle.css": "/assets/frappe/dist/css-rtl/email.bundle.SX6X5IDT.css",
+    "rtl_login.bundle.css": "/assets/frappe/dist/css-rtl/login.bundle.AZOWFR2Q.css",
+    "rtl_print.bundle.css": "/assets/frappe/dist/css-rtl/print.bundle.VJLZF4P6.css",
+    "rtl_print_format.bundle.css": "/assets/frappe/dist/css-rtl/print_format.bundle.FPV5IRAA.css",
+    "rtl_report.bundle.css": "/assets/frappe/dist/css-rtl/report.bundle.AHDFHF7W.css",
+    "rtl_web_form.bundle.css": "/assets/frappe/dist/css-rtl/web_form.bundle.HG6YE4GN.css",
+    "rtl_website.bundle.css": "/assets/frappe/dist/css-rtl/website.bundle.L5R2BIAZ.css",
+    "rtl_erpnext-web.bundle.css": "/assets/erpnext/dist/css-rtl/erpnext-web.bundle.TLMGAKSI.css",
+    "rtl_erpnext.bundle.css": "/assets/erpnext/dist/css-rtl/erpnext.bundle.NMJ7LCY6.css",
+    "rtl_erpnext_email.bundle.css": "/assets/erpnext/dist/css-rtl/erpnext_email.bundle.W4M5KIHC.css",
+    "rtl_hrms.bundle.css": "/assets/hrms/dist/css-rtl/hrms.bundle.VNOT5UHD.css",
+    "rtl_india_compliance_account.bundle.css": "/assets/india_compliance/dist/css-rtl/india_compliance_account.bundle.OXOL6426.css"
 }

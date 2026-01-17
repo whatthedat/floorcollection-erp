@@ -1,5 +1,9 @@
 {
  "db_name": "_bdf2ebe01537ec5b",
  "db_password": "pVj5T8euoJ6l7jrt",
- "db_type": "postgres"
+ "db_type": "postgres",
+ "maintenance_mode": 0,
+ "user_type_doctype_limit": {
+  "employee_self_service": 40
+ }
 }
